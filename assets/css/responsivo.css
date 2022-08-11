@@ -19,7 +19,7 @@
   }
 
   .populares__card {
-    grid-template-rows: 150px auto;
+    grid-template-rows: 270px auto;
     margin-bottom: 3rem;
     margin-right: 0;
     width: 100%;
