@@ -48,7 +48,7 @@ git clone https://github.com/kleytoncristovao/curso-grid-alura-store.git
 
 ## Casos de Uso
 
-Este site poderia ser usado por uma plataforma que faz a venda de jogos para ser clientes e junto com notíciais e informações importantes, tudo isso montado com o Grid e com um layout responsivo para ser usado em qualquer dispositivo sem quebrar o site.
+Este site poderia ser usado por uma plataforma que faz a venda de jogos para seus clientes e junto com notíciais e informações importantes, tudo isso montado com o Grid e com um layout responsivo para ser usado em qualquer dispositivo sem quebrar o site.
 
 ## Desenvolvedores/Contribuintes :octocat:
 
